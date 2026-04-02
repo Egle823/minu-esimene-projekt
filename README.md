@@ -1,4 +1,4 @@
-# Tere! 👋 Mina olen KEgle Laur
+# Tere! 👋 Mina olen Egle Laur
 
 # 🎯 Andmeanalüütiku Karjääri Algus
 Õpin hetkel DACA (Data Analyst Career Accelerator) programmis, kus keskendun andmete puhastamisele, modelleerimisele ja äriväärtuse leidmisele.
